@@ -4,3 +4,7 @@
 Added Header and image
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Add a H1 header
+- [x] Add an image
+- [x] Add code example
+- [ ] Add task list
